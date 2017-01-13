@@ -1,0 +1,270 @@
+#tester {
+
+    cursor: pointer;
+}
+
+
+#search-form {
+	width: 225px;
+}
+
+.btn {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#tester {
+	margin-bottom: 25px;
+	
+}
+
+#t-title {
+	font-size: 3.0em;
+}
+
+h2 {
+	color: red;
+	
+}
+
+span {
+	margin-right: 8px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+
+body
+{
+	font-size: 12pt;
+}
+
+h1
+{
+	font-size: 15pt;
+}
+
+
+h1.comboname
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+
+table.topbox
+{
+background-color: #EFCEC4;
+border-style: solid none solid none;
+border-color: #CF1E1E;
+border-width: 3px;
+}
+
+.topboxgenname
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.topboxtradename
+{
+color:#CF1E1E;
+font-family: TimesNewRoman, serif;
+font-weight: bold;
+}
+
+.tradenamegrptitle
+{
+color:#CF1E1E;
+font-family: TimesNewRoman, serif;
+font-weight: bold;
+margin: 3px 0px 5px 0px;
+}
+
+
+
+.classification
+{
+    font-size: 10pt;
+    text-transform: uppercase;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+}
+
+table.rdbox
+{
+background-color: #E6E7E8;
+border-style: solid none solid none;
+border-width: 2px;
+border-color: #000000;
+}
+
+.rdage
+{
+	color:#CF1E1E;
+	font-style: italic;
+}
+
+.rdroute
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+.indicationtitle
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 11pt;
+}
+
+.impairmenttitle
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 11pt;
+}
+
+.rdpostnotetitle
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 11pt;
+}
+
+.rdpostnotetext
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+}
+
+.adminwarning
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 11pt;
+	font-variant: small-caps;
+}
+
+
+.adminroutetype
+{
+	color:#CF1E1E;
+	font-weight: bold;
+}
+
+table.ivbox
+{
+ border-color: #CF1E1E;
+ border-style: solid solid none none;
+ border-width: 2px 3px 0px 0px;
+}
+
+.ivtitle
+{
+	color:#CF1E1E;
+	font-weight: bold;
+}
+
+.incompattype
+{
+	color:#CF1E1E;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+.routemethod
+{
+	font-weight: bold;
+	font-style: italic;
+	font-size: 11pt;
+}
+
+
+.speceff-life
+{
+text-decoration: underline;
+}
+
+.speceff-common
+{
+font-style: italic;
+}
+
+.speceff-both
+{
+text-decoration: underline;
+font-style: italic;
+}
+
+.smallcaps
+{
+	text-transform: uppercase;
+	font-variant: small-caps;
+}
+
+.implictitle
+{
+	color:#CF1E1E;
+}
+
+.adeffecttitle
+{
+	color:#CF1E1E;
+	font-weight: bold;
+}
+
+.adeffectsubtitle
+{
+	color:#CF1E1E;
+	font-weight: bold;
+}
+
+.eductitle
+{
+	color:#CF1E1E;
+	font-weight: bold;
+}
+
+.educsubtitle
+{
+	color:#CF1E1E;
+	font-weight: bold;
+}
+
+.alt
+{
+	font-style: italic;
+	font-weight: bold;
+}
+
+.typehead
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	font-weight: bold;
+	text-align: right;
+}
+
+.sansserifhead
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+.methodtype
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+.footer
+{
+	font-size: 10pt;
+}
